@@ -1,7 +1,8 @@
-<?php include 'include\head.php'; ?>
+<?php
 
-  <body>
-<?php include 'include\landing.php'; ?>
-  </body>
+include './include/head.php';
 
+include './include/landing.php';
+
+?>
 </html>
